@@ -1,0 +1,18 @@
+OSI model
+=There are 7 layers in osi model ,it is also known as open system interconnection model.
+1.Application layer - user interaction
+2.Presentation layer - Encryption/Decryption 
+3.Sesion layer - connection control
+4.Transport layer - UDP/TCP(data delivery)
+5.Network layer - ip addresing
+6.Data link layer - MAC address
+7.Physical layer - Cables , signals
+
+linuk commands 
+
+ls -> To show the list of files
+pwd -> it show the current working directory
+cd -> used to change directory
+mkdir -> to create new folder
+rmdir -> to remove the directory
+cat -> to create , edit or view the content in the file 
